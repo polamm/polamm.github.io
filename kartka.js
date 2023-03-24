@@ -9,7 +9,7 @@ loadSprite("tlo","christmastrees.png")
 loadSprite("pola","polapola.png")
 loadSprite("pola2","choinka11.png")
 
-loadSound("muzyka","muzyka111.mp3")
+loadSound("muzyka","muzyyka111.mp3")
 
 // add a piece of text at position (120, 80)
 add([
